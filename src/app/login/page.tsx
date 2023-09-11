@@ -87,7 +87,7 @@ export default function LoginPage(){
       <button className="p-2 border border-gray-200 rounded-lg mb-4 focus:outline-none focus:border-gray-300"
           onClick={onLogin}
         >
-        {buttonDisabled ? "No Signup" : "Login here"}
+        {buttonDisabled ? "No Login" : "Login here"}
       </button>
 
       <Link href={"/signup"}>Vist Signup Page</Link>
