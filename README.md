@@ -1,6 +1,13 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Notes 
+Click on below Image to go to the Notes or click [here](https://drive.google.com/file/d/1sq_1vC3wzVjBFFDnZbciRYvLSDd0_Bz6/view?usp=sharing)
+
+[
+![](https://www.studiosity.com/hs-fs/hubfs/DTC/09.blog/Note-taking-tumblr_-REVISEORDIE.jpg?width=750&height=562&name=Note-taking-tumblr_-REVISEORDIE.jpg)](https://drive.google.com/file/d/1sq_1vC3wzVjBFFDnZbciRYvLSDd0_Bz6/view?usp=sharing)
+
+
 
 ## Getting Started
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 
